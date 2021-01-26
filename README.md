@@ -1,8 +1,8 @@
 # Encontros Semanais
 
-Bom vindo a PodCodar!
+Bem vindo a PodCodar!
 
-Realizamos encontros semanais todas as quintas as 20h para falar de código. Criamos esse repo para compartilhar os conteúdo apresentado nos encontros semanais da PodCodar.
+Realizamos encontros semanais todas as quintas as 20h para falar explorar o universo de engenharia de software. Criamos esse repo para compartilhar os conteúdo apresentado nos encontros semanais da PodCodar.
 
 ## Como navegar?
 
